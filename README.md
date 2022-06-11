@@ -1,3 +1,1 @@
-# Soulsender.github.io
-
-This repository is dedicated to my [website](https://soulsender.github.io)
+Cloned from Soulsender, Used the template to make my Website. 
